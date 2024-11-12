@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello World!
+## 📝 About Me
+👋 I am Bhagyashri Mande, a `Full-Stack` Developer from India.  
 
-<!--
-**DevGit21/DevGit21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+  `Programming Languages`: Python, Javascript, Typescript  
+  `FrontEnd Development`: HTML, CSS, Javascript, Typescript, React, Angular
+  `Version-Control`: Git, GitHub, CI-CD
+  `Cloud Services`: Azure services
+  `Test Automation`: Robot Framework
+  
+## 💼 What I'm Looking For:
+👀 _I'm currently on the lookout for opportunities in the field of Fullstack development, where I can apply my technical skills and knowledge to create innovative and efficient solutions._  
+🤝 _I'm eager to work on projects that challenge me and provide continuous learning opportunities._     
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  🤝🏻 Connect with Me  
+* [`G-Mail`](mailto:bhaya.mande28@gmail.com)   
+* [`GitHub`](https://github.com/DevGit21)   
+* [`LinkedIn`](https://www.linkedin.com/in/bhagyashri-mande-31908915/)   
+* [`Discord`]( discordapp.com/users/bhagyashri_68783)    
