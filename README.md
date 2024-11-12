@@ -10,8 +10,8 @@
   `Test Automation`: Robot Framework
   
 ## 💼 What I'm Looking For:
-👀 I'm currently on the lookout for opportunities in the field of Fullstack development, where I can apply my technical skills and knowledge to create innovative and efficient solutions.
-🤝 I'm eager to work on projects that challenge me and provide continuous learning opportunities.  
+👀 _I'm currently on the lookout for opportunities in the field of Fullstack development, where I can apply my technical skills and knowledge to create innovative and efficient solutions. _
+🤝 I'm eager to work on projects that challenge me and provide continuous learning opportunities. _
 
 ##  🤝🏻 Connect with Me  
 * [`G-Mail`](mailto:bhagya.mande28@gmail.com)   
