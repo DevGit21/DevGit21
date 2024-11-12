@@ -4,10 +4,10 @@
 
 ## 🛠 Tech Stack
   `Programming Languages`: Python, Javascript, Typescript   
-  `FrontEnd Development`: HTML, CSS, Javascript, Typescript, React, Angular
-  `Version-Control`: Git, GitHub, CI-CD
-  `Cloud Services`: Azure services
-  `Test Automation`: Robot Framework
+  `FrontEnd Development`: HTML, CSS, Javascript, Typescript, React, Angular   
+  `Version-Control`: Git, GitHub, CI-CD   
+  `Cloud Services`: Azure services   
+  `Test Automation`: Robot Framework   
   
 ## 💼 What I'm Looking For:
 👀 _I'm currently on the lookout for opportunities in the field of Fullstack development, where I can apply my technical skills and knowledge to create innovative and efficient solutions._  
