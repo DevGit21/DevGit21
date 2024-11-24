@@ -17,4 +17,4 @@
 * [`G-Mail`](mailto:bhagya.mande28@gmail.com)   
 * [`GitHub`](https://github.com/DevGit21)   
 * [`LinkedIn`](https://www.linkedin.com/in/bhagyashri-mande-31908915/)   
-* [`Discord`]( discordapp.com/users/bhagyashri_68783)    
+* [`Discord`](https://discordapp.com/users/bhagyashri_68783)    
